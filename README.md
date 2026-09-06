@@ -1,11 +1,10 @@
 # Insurance Claims & Policyholder Risk Analytics
 
-An interactive Power BI dashboard for quickly understanding **claims, severity, regional risk, and policyholder patterns**.
+Interactive dashboard for claims, severity, regional risk, and policyholder analysis.
 
 ## 🎯 Purpose
 
-Turn large insurance claims data into a **simple, interactive view** that helps identify where claims are \
-concentrated and how risk varies across different segments.
+Turn large insurance claims data into a simple, interactive view that helps identify where claims are concentrated and how risk varies across different segments.
 
 ## 📊 Dashboard
 
@@ -21,7 +20,7 @@ concentrated and how risk varies across different segments.
 
 ## 🛠️ Built With
 
-**Power BI | DAX | Power Query**
+Power BI · DAX · Power Query
 
 ## 💡 Business Impact
 
